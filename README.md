@@ -33,3 +33,8 @@ This machine learning project uses linear regression to predict students' math s
 - scikit-learn
 
 
+
+
+🚀 Author
+Made with ❤️ by Sarthak Patil  
+*Learning to shape India's AI future 🇮🇳*
